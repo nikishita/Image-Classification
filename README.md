@@ -29,9 +29,8 @@ The following libraries are required to run the code:
 ## Results 
 The following table presents the comparison of accuracy between our proposed method and the baseline approach:
 
-Method	                    Accuracy
-OpenFace (Deep Learning)	  0.968
-LBPH (Traditional)	        Lower Accuracy
+- OpenFace (Deep Learning) => 0.968
+- LBPH (Traditional)	     => Lower Accuracy
 
 The results demonstrate the significant improvement in accuracy achieved through our improved hard-negative sample selection strategy combined with Triplet Loss training.
 
